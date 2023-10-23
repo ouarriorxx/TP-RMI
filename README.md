@@ -33,7 +33,7 @@
 
 * Java pour le développement des applications cliente et serveur.
 * RMI pour la communication entre le serveur et les clients.
-* JNDI pour gérer les connexions à la base de données.
+* Hibernate .
 * XAMPP pour la base de données MySQL.
 
 # Objectifs :
