@@ -29,6 +29,12 @@
 #☑️ c'est fait avec succee
 ![done](https://github.com/ouarriorxx/TP-RMI/assets/143946046/7d0b12fd-5d2c-40b1-b2cc-a6769dad2e29)
 
+# Technologies utilisées :
+
+* Java pour le développement des applications cliente et serveur.
+* RMI pour la communication entre le serveur et les clients.
+* JNDI pour gérer les connexions à la base de données.
+* XAMPP pour la base de données MySQL.
 
 # Objectifs :
  
